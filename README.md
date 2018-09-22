@@ -1,2 +1,1 @@
-# Code-Type in code
-## 代码思想
+# Code-Type in code 代码思想
